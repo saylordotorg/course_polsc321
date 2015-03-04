@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC321: Mideast Politics"
+course_description: "An exploration of contemporary politics in the Middle East, examining the salient geographical, historical, and religious features of the area. Analyzes the role of political elites, the Arab-Israeli conflict, gender politics, and factors that have inhibited the growth of democracy."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Introduction to Contemporary Issues in the Politics of the
 Middle East** <span id="2"></span> 
 *In this unit, you will survey some contemporary developments in the

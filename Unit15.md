@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC321: Mideast Politics"
+course_description: "An exploration of contemporary politics in the Middle East, examining the salient geographical, historical, and religious features of the area. Analyzes the role of political elites, the Arab-Israeli conflict, gender politics, and factors that have inhibited the growth of democracy."
+next: ../Unit16
+previous: ../Unit14
+---
 **Unit 15: The Wars in Afghanistan (2001) and Iraq (2003)** <span
 id="15"></span> 
 *After the attacks of September 11, 2001, the United States and its

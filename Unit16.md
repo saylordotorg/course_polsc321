@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC321: Mideast Politics"
+course_description: "An exploration of contemporary politics in the Middle East, examining the salient geographical, historical, and religious features of the area. Analyzes the role of political elites, the Arab-Israeli conflict, gender politics, and factors that have inhibited the growth of democracy."
+next: ../Unit17
+previous: ../Unit15
+---
 **Unit 16: The Arab Uprisings of 2011** <span id="16"></span> 
 *On December 17, 2010, a Tunisian fruit vendor named Mohamed Bouazizi
 set himself on fire in frustration and in protest of the lack of

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC321: Mideast Politics"
+course_description: "An exploration of contemporary politics in the Middle East, examining the salient geographical, historical, and religious features of the area. Analyzes the role of political elites, the Arab-Israeli conflict, gender politics, and factors that have inhibited the growth of democracy."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Turkey and Iran** <span id="6"></span> 
 *Turkey and Iran both emerged as nation-states in the ruins of great
 empires.  They followed similar paths to independence and have wrestled

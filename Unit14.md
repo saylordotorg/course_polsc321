@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC321: Mideast Politics"
+course_description: "An exploration of contemporary politics in the Middle East, examining the salient geographical, historical, and religious features of the area. Analyzes the role of political elites, the Arab-Israeli conflict, gender politics, and factors that have inhibited the growth of democracy."
+next: ../Unit15
+previous: ../Unit13
+---
 **Unit 14: Islamic Revivalism** <span id="14"></span> 
 *Modern Islamist movements in the Middle East self-identify as
 revivalist movements, hearkening back to a golden age of Islam in the
