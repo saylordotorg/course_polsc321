@@ -180,3 +180,4 @@ decide to complete Unit 1 (a total of 4 hours) on Monday night; subunits
 - [Unit 15](https://legacy.saylor.org/polsc321/Unit15/)
 - [Unit 16](https://legacy.saylor.org/polsc321/Unit16/)
 - [Unit 17](https://legacy.saylor.org/polsc321/Unit17/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC321/POLSC321-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC321/POLSC321-FinalExam-Answers.html)
