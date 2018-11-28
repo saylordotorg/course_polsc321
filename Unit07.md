@@ -66,7 +66,7 @@ to:
 **7.1 Arabism** <span id="7.1"></span> 
 -   **Reading: “United Arab Republic”**
     Link: [“United Arab
-    Republic”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/United-Arab-Republic.pdf)
+    Republic”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/United-Arab-Republic.pdf)
     (PDF)  
         
      Instructions: Please click on the link above to download the PDF
